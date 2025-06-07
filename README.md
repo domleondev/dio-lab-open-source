@@ -91,5 +91,17 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
   <img src="https://contrib.rocks/image?repo=digitalinnovationone/dio-lab-open-source"/>
 </a>
 
+## Convenção de Commits
+
+| Tipo de Commit | Descrição                                                                 |
+|----------------|---------------------------------------------------------------------------|
+| `feat`         | Adiciona uma nova funcionalidade ao projeto.                              |
+| `fix`          | Corrige um bug ou problema no projeto.                                    |
+| `docs`         | Altera a documentação do projeto. Ex.: README, comentários no código.     |
+| `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.              |
+| `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.              |
+| `test`         | Adiciona ou modifica testes no projeto.                                   |
+
+
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
